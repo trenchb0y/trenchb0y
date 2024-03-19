@@ -1,5 +1,9 @@
 ### Hi there 👋
-(https://github.com/trenchb0y/trenchb0y/blob/main/banner.png)
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/trenchb0y/trenchb0y/blob/main/banner.png" alt=”my banner”>
+
+</p>
 <!--
 **trenchb0y/trenchb0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
