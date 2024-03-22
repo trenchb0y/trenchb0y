@@ -3,7 +3,7 @@
 
 <h1 align="center">Welcome! my name is Zharfan</h1>
 <h3 align="center">A passionate fulltime learner | Data aficionado</h3>
-<--
+<!--
 - 🌱 And I’m currently learning to become a **Data Analyst**
 -->
 <h3 align="left">Languages and Tools i have experience with:</h3>
