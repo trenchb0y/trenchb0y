@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Welcome! my name is Zharfan</h1>
-<h3 align="center">A passionate fulltime learner</h3>
+<h3 align="center"></h3>
 <!--
 - 🌱 And I’m currently learning to become a **Data Analyst**
 -->
